@@ -1,6 +1,5 @@
 import random
 print("Welcome to Rock-Paper-Scissors!")
-
 choice = random.randint(1, 3)
 if (choice == 1):
     strchoice = "rock"
