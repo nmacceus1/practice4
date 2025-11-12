@@ -1,6 +1,6 @@
-print("Welcome to Rock-Paper-Scissors!")
+print("Welcomeeee!!!!!")
 player_choice = input("Choose rock, paper, or scissors: ")
-print(f"You picked: {player_choice}")
+print(f"You choose: {player_choice}")
 
 import random
 choice = random.randint(1, 3)
