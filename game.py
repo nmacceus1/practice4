@@ -1,4 +1,4 @@
-print("Hello from Person 2!!!!!")
+print("Welcome from Person 1!")
 player_choice = input("Choose rock, paper, or scissors: ")
 print(f"You choose: {player_choice}")
 
